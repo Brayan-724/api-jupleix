@@ -1,0 +1,6 @@
+{
+  "$schema": "./config_schema.json",
+  "port": 1402,
+  "baseRoute": "/api",
+  "urlsJson": "./urls.json"
+}

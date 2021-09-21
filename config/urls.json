@@ -1,0 +1,30 @@
+{
+  "img": {
+    "slap": [
+      "https://example.com/url1",
+      "https://example.com/url2",
+      "https://example.com/url3",
+      "https://example.com/url4"
+    ],
+    "other": {
+      "more": [
+        "https://example.com/url1",
+        "https://example.com/url2",
+        "https://example.com/url3",
+        "https://example.com/url4"
+      ],
+      "and/mode": [
+        "https://example.com/url1",
+        "https://example.com/url2",
+        "https://example.com/url3",
+        "https://example.com/url4"
+      ]
+    }
+  },
+  "avatars": [
+    "https://example.com/url1",
+    "https://example.com/url2",
+    "https://example.com/url3",
+    "https://example.com/url4"
+  ]
+}

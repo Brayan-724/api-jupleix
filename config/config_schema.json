@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "$id": "config_shema",
+  "properties": {
+    "port": {
+      "type": "number",
+      "default": 80,
+      "description": "Port to run api. (put negative to force, otherwise use first $PORT)"
+    },
+    "urlsJson": {
+      "type": "string",
+      "default": "./urls.json",
+      "description": "Path of urls.json. Is relative to this file."
+    },
+    "baseRoute": {
+      "type": "string",
+      "default": "/api",
+      "description": "Pathname base for api."
+    }
+  }
+}
